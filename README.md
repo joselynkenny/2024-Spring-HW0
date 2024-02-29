@@ -1,15 +1,14 @@
 # 2024-Spring-HW0
 
-All the detailed specified in Homework 0 documentation.
-
 ## Wallet Address
-Please provide your MetaMask wallet address:
+0xF7A53342eAB956a7A7305a338dA16BeF14c4BbC8
 
 ## Local Testing
-Please provide a screenshot of the `forge test -vvv` command running in your local environment.
+![Alt text](./hw0/figure2.png)
 
 ## Contract Address
-Please provide the contract address that you deployed on the Sepolia network.
+0x3f3C5D6fEB4E7CE53062e79CA0E7DB69F3A4884F
 
 ## Sepolia Etherscan
-Paste the contract address into the Sepolia Etherscan and share the screenshot.
+
+![Alt text](./hw0/figure3.png)
