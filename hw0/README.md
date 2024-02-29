@@ -1,10 +1,3 @@
-## R12922176 RESULT
-
-### FIGURE 2
-![Alt text](./figure2.png)
-
-### FIGURE 3
-![Alt text](./figure3.png)
 
 ## Foundry
 
